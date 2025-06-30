@@ -12,8 +12,6 @@ A modern, responsive music player web app inspired by Spotify — designed using
 
 ## 📸 Screenshots
 
-> 💡 Save your screenshots in a folder named `screenshots/` in the root directory and name them like `home.png`, `playing.png`.
-
 ![Album Page](screenshots/album-page.png)
 ![Home Page](screenshots/home-page.png)
 
